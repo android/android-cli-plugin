@@ -1,6 +1,6 @@
 {
   "name": "android-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use the Android CLI (android) to create Android projects, run apps on devices and emulators, manage the SDK, look up official Android docs and install Android skills.",
   "author": {
     "name": "Google / Android",

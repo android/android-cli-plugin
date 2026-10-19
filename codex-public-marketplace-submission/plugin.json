@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "android-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use the Android CLI to create Android projects, run apps on devices and emulators, manage the Android SDK, and search official Android documentation.",
   "author": {
     "name": "Google / Android",
